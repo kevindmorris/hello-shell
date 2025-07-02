@@ -1,7 +1,14 @@
 {
   "name": "hello-shell",
   "version": "1.0.0",
-  "description": "A fun CLI to say hello to someone from your terminal — in color!",
+  "description": "A fun CLI to say hello to someone from your terminal — in color!","repository": {
+    "type": "git",
+    "url": "https://github.com/kevindmorris/hello-shell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevindmorris/hello-shell/issues"
+  },
+  "homepage": "https://github.com/kevindmorris/hello-shell#readme",
   "bin": {
     "hello-kevin": "./dist/index.js"
   },

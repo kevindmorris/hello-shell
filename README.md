@@ -2,6 +2,10 @@
 
 > 🐚 A fun CLI to say hello to someone from your terminal — in color!
 
+[![NPM Version](https://img.shields.io/npm/v/hello-shell.svg)](https://www.npmjs.com/package/hello-shell)
+[![NPM Downloads](https://img.shields.io/npm/dm/hello-shell.svg)](https://www.npmjs.com/package/hello-shell)
+[![License](https://img.shields.io/npm/l/hello-shell.svg)](./LICENSE)
+
 ## 📦 Installation & Usage
 
 You don’t need to install it! Just run with `npx`:
