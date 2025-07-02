@@ -1,0 +1,28 @@
+{
+  "name": "hello-shell",
+  "version": "1.0.0",
+  "description": "A fun CLI to say hello to someone from your terminal — in color!",
+  "bin": {
+    "hello-kevin": "./dist/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "typescript": "^5.8.3"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "hello",
+    "cli",
+    "chalk",
+    "npx"
+  ],
+  "devDependencies": {
+    "@types/node": "^24.0.10"
+  }
+}
